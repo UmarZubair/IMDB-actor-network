@@ -1,4 +1,4 @@
-# Project for Complex Network course. 
+# IMDB actor relationship
 Analyzed the relationship of actors who have done some movies together. Based on this we can form basis such as which actors when paired together can have high rating.
 
 Made own dataset by scrapping top 2000 rated movies and their actors from IMDB. For each movie, scrapped its name, rating, director name and top 4 actor names. 
